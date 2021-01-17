@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "currentLevel": 1,
+    "totalCompleted": 0,
+    "totalQuestions": 15
+  },
+  {
+    "id": 2,
+    "currentLevel": 2,
+    "totalCompleted": 0,
+    "totalQuestions": 15
+  },
+  {
+    "id": 3,
+    "currentLevel": 3,
+    "totalCompleted": 0,
+    "totalQuestions": 15
+  },
+  {
+    "id": 4,
+    "currentLevel": 4,
+    "totalCompleted": 0,
+    "totalQuestions": 15
+  },
+  {
+    "id": 5,
+    "currentLevel": 5,
+    "totalCompleted": 0,
+    "totalQuestions": 20
+  }
+]
