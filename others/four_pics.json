@@ -1,7 +1,7 @@
 [
   {
-    "success": true,
-    "four_pics_data": [
+    "error": true,
+    "fourPicsData": [
       {
         "id": 1,
         "img1": "https://androidworldpro.github.io/game.github.io/images/Mansoor%20.png",
