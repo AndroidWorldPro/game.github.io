@@ -1,11 +1,11 @@
 {
-  "success": true,
-  "total_levels_data": [
+  "error": false,
+  "levelsData": [
     {
-      "id": "",
-      "currentLevel": "",
-      "totalCompleted": "",
-      "totalQuestions": ""
+      "id": 1,
+      "currentLevel": 1,
+      "totalCompleted": 0,
+      "totalQuestions": 15
     }
   ]
 }
