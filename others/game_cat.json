@@ -1,26 +1,26 @@
 {
-  "success": true,
-  "game_cat_data": [
+  "error": false,
+  "gameCatData": [
     {
       "game_cat_id": 1,
       "game_cat_name": "Guess The Wrestler",
       "game_cat_img": "https://www.github.com/",
       "game_cat_desc": "This is description of Guess The Wrestler topic",
-      "game_available": true
+      "game_cat_available": true
     },
     {
       "game_cat_id": 2,
       "game_cat_name": "Trivia Quiz",
       "game_cat_img": "https://www.github.com/",
       "game_cat_desc": "This is description of Trivia Quiz",
-      "game_available": true
+      "game_cat_available": true
     },
     {
       "game_cat_id": 3,
       "game_cat_name": "Four Pics One Wrestler",
       "game_cat_img": "https://www.github.com/",
       "game_cat_desc": "This is description of Four Pics One Wrestler topic",
-      "game_available": true
+      "game_cat_available": true
     }
   ]
 }
