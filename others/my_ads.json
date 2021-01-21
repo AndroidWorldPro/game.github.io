@@ -1,0 +1,23 @@
+{
+  "error": false,
+  "myAds": [
+    {
+      "id": 1,
+      "adName": "Banner 1",
+      "isEnabled": true,
+      "displayAvg": 1
+    },
+    {
+      "id": 2,
+      "adName": "Banner 2",
+      "isEnabled": true,
+      "displayAvg": 4
+    },
+    {
+      "id": 4,
+      "adName": "Banner 3",
+      "isEnabled": true,
+      "displayAvg": 4
+    }
+  ]
+}
