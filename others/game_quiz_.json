@@ -1,4 +1,6 @@
-[
+{
+  "error":false,
+  "quizData":[
   {
     "id": 1,
     "title": "What is the full-form of WWE Quiz Game in this wwe game?",
@@ -65,3 +67,4 @@
     "imgURL": "https://firebasestorage.googleapis.com/v0/b/kidsquiz-6e265.appspot.com/o/games%2Fflamingo.webp?alt=media&token=3b7dc490-27ae-41c6-90fb-4a57fba638af"
   }
 ]
+}
