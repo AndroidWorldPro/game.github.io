@@ -18,7 +18,7 @@
         "keyboard": "SPIGOHOWB",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTT",
-        "keyboardHintVisible": "TTTTTTTTT"
+        "keyboardHintVisible": "FFFFFFFFF"
       },
       {
         "id": 2,
@@ -37,7 +37,7 @@
         "keyboard": "ANUNYBEWLNIQAMIDTR",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
-        "keyboardHintVisible": "TTTTTTTTTTTTTTTTTT"
+        "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
       },
       {
         "id": 3,
@@ -56,7 +56,7 @@
         "keyboard": "VJOFKNNCXNHGICAEJS",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
-        "keyboardHintVisible": "TTTTTTTTTTTTTTTTTT"
+        "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
       },
       {
         "id": 4,
@@ -75,7 +75,7 @@
         "keyboard": "URSTNTOEIGDERFTSCT",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
-        "keyboardHintVisible": "TTTTTTTTTTTTTTTTTT"
+        "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
       },
       {
         "id": 5,
@@ -94,7 +94,7 @@
         "keyboard": "ENNBREFONSDJOXREGB",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
-        "keyboardHintVisible": "TTTTTTTTTTTTTTTTTT"
+        "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
       }
     ]
   }
