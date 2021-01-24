@@ -16,7 +16,7 @@
         "hintTaken": "FFF FFFF",
         "wordVisible": "FFF FFFF",
         "keyboard": "SPIGOHOWB",
-        "keyPositionWord" : "         ",
+        "keyPositionWord" : "---------",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTT",
         "keyboardHintVisible": "FFFFFFFFF"
@@ -36,7 +36,7 @@
         "hintTaken": "FFFFFF FFFFF",
         "wordVisible": "FFFFFF FFFFF",
         "keyboard": "ANUNYBEWLNIQAMIDTR",
-        "keyPositionWord" : "         ",
+        "keyPositionWord" : "------------------",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
         "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
@@ -56,7 +56,7 @@
         "hintTaken": "FFFF FFFF",
         "wordVisible": "FFFF FFFF",
         "keyboard": "VJOFKNNCXNHGICAEJS",
-        "keyPositionWord" : "         ",
+        "keyPositionWord" : "------------------",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
         "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
@@ -76,7 +76,7 @@
         "hintTaken": "FFFFF FFFFFFF",
         "wordVisible": "FFFFF FFFFFFF",
         "keyboard": "URSTNTOEIGDERFTSCT",
-        "keyPositionWord" : "         ",
+        "keyPositionWord" : "------------------",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
         "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
@@ -96,7 +96,7 @@
         "hintTaken": "FFFFFFF FFFF",
         "wordVisible": "FFFFFFF FFFF",
         "keyboard": "ENNBREFONSDJOXREGB",
-        "keyPositionWord" : "         ",
+        "keyPositionWord" : "---------",
         "isPlayed": false,
         "keyboardVisible": "TTTTTTTTTTTTTTTTTT",
         "keyboardHintVisible": "FFFFFFFFFFFFFFFFFF"
