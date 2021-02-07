@@ -9,13 +9,13 @@
     },
     {
       "id": 2,
-      "adName": "Banner 2",
+      "adName": "Wrestlers Banner",
       "isEnabled": true,
       "displayAvg": 4
     },
     {
       "id": 4,
-      "adName": "Banner 3",
+      "adName": "FourPics Banner",
       "isEnabled": true,
       "displayAvg": 4
     }
