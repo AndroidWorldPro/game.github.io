@@ -3181,7 +3181,7 @@
       "option3": "Money in the Bank",
       "option4": "Title in the Bank",
       "answer": "Money in the Bank",
-      "userAnswer": "Money in the Bank",
+      "userAnswer": "",
       "isPlayed": false,
       "isImgQues": false,
       "imgURL": ""
@@ -3232,7 +3232,8 @@
       "option2": "Kane",
       "option3": "Ryback",
       "option4": "Big Show",
-      "userAnswer": "Ryback",
+      "answer": "Ryback",
+      "userAnswer": "",
       "isPlayed": false,
       "isImgQues": false,
       "imgURL": ""
@@ -3323,7 +3324,7 @@
       "option3": "Big E Langston",
       "option4": "Dolph Ziggler",
       "answer": "Dolph Ziggler",
-      "userAnswer": "Dolph Ziggler",
+      "userAnswer": "",
       "isPlayed": false,
       "isImgQues": false,
       "imgURL": ""
