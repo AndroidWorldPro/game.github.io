@@ -1,32 +1,65 @@
-[
-  {
-    "id": 1,
-    "currentLevel": 1,
-    "totalCompleted": 0,
-    "totalQuestions": 15
-  },
-  {
-    "id": 2,
-    "currentLevel": 2,
-    "totalCompleted": 0,
-    "totalQuestions": 15
-  },
-  {
-    "id": 3,
-    "currentLevel": 3,
-    "totalCompleted": 0,
-    "totalQuestions": 15
-  },
-  {
-    "id": 4,
-    "currentLevel": 4,
-    "totalCompleted": 0,
-    "totalQuestions": 15
-  },
-  {
-    "id": 5,
-    "currentLevel": 5,
-    "totalCompleted": 0,
-    "totalQuestions": 20
-  }
-]
+{
+  "error": false,
+  "levelsData": [
+    {
+      "id": 1,
+      "currentLevel": 1,
+      "totalCompleted": 0,
+      "totalQuestions": 10
+    },
+    {
+      "id": 2,
+      "currentLevel": 2,
+      "totalCompleted": 0,
+      "totalQuestions": 10
+    },
+    {
+      "id": 3,
+      "currentLevel": 3,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 4,
+      "currentLevel": 4,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 5,
+      "currentLevel": 5,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 6,
+      "currentLevel": 6,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 7,
+      "currentLevel": 7,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 8,
+      "currentLevel": 8,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 9,
+      "currentLevel": 9,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    },
+    {
+      "id": 10,
+      "currentLevel": 10,
+      "totalCompleted": 0,
+      "totalQuestions": 15
+    }
+  ]
+}
