@@ -10,17 +10,17 @@
     },
     {
       "game_cat_id": 2,
-      "game_cat_name": "Trivia Quiz",
-      "game_cat_img": "https://androidworldpro.github.io/game.github.io/assets/question_answer.png",
-      "game_cat_desc": "This is description of Trivia Quiz",
+      "game_cat_name": "4 Pics 1 Wrestler",
+      "game_cat_img": "https://androidworldpro.github.io/game.github.io/assets/four_pics_1.png",
+      "game_cat_desc": "This is description of Four Pics One Wrestler topic",
       "game_cat_available": true
     },
     {
       "game_cat_id": 3,
-      "game_cat_name": "Four Pics One Wrestler",
-      "game_cat_img": "https://androidworldpro.github.io/game.github.io/assets/four_pics_1.png",
-      "game_cat_desc": "This is description of Four Pics One Wrestler topic",
-      "game_cat_available": true
+      "game_cat_name": "Trivia Quiz",
+      "game_cat_img": "https://androidworldpro.github.io/game.github.io/assets/question_answer.png",
+      "game_cat_desc": "This is description of Trivia Quiz",
+      "game_cat_available": false     
     }
   ]
 }
