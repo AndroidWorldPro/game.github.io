@@ -303,16 +303,16 @@
     },
     {
       "id": 21,
-      "word": "FANDANGO",
-      "userWord": "00000000",
+      "word": "CARLITO",
+      "userWord": "0000000",
       "lettersVisible": "FFFFFFFF",
-      "keyboard": "DAFGNAON",
+      "keyboard": "RIOLTACB",
       "alphaKeyPosition": "--------",
       "keysVisible": "TTTTTTTT",
       "keysHint": "FFFFFFFF",
       "lettersHint": "FFFFFFFF",
       "isPlayed": false,
-      "imgURL": "Fandango.jpg",
+      "imgURL": "Carlito.png",
       "previewImgUrl": "",
       "levelId": 3
     },
@@ -357,7 +357,7 @@
       "keysHint": "FFFFFFFFFF",
       "lettersHint": "FFFF FFFFF",
       "isPlayed": false,
-      "imgURL": "",
+      "imgURL": "Hulk_Hogan.png",
       "previewImgUrl": "",
       "levelId": 3
     },
@@ -717,7 +717,7 @@
       "keysHint": "FFFFFFFFFFFF",
       "lettersHint": "FFFF FFFFFFFF",
       "isPlayed": false,
-      "imgURL": "",
+      "imgURL": "John_Morrison.png",
       "previewImgUrl": "",
       "levelId": 4
     },
@@ -749,7 +749,7 @@
       "isPlayed": false,
       "imgURL": "Kurt%20Angle.png",
       "previewImgUrl": "",
-      "levelId": 5
+      "levelId": 4
     },
     {
       "id": 51,
@@ -1608,16 +1608,16 @@
     },
     {
       "id": 108,
-      "word": "KING KONG BUNDY",
-      "userWord": "0000 0000 00000",
-      "lettersVisible": "FFFF FFFF FFFFF",
-      "keyboard": "YGGKDUOINKNNBO",
-      "alphaKeyPosition": "--------------",
-      "keysVisible": "TTTTTTTTTTTTTT",
-      "keysHint": "FFFFFFFFFFFFFF",
-      "lettersHint": "FFFF FFFF FFFFF",
+      "word": "RIKISHI",
+      "userWord": "0000000",
+      "lettersVisible": "FFFFFFF",
+      "keyboard": "IHRIISKM",
+      "alphaKeyPosition": "--------",
+      "keysVisible": "TTTTTTTT",
+      "keysHint": "FFFFFFFF",
+      "lettersHint": "FFFFFFF",
       "isPlayed": false,
-      "imgURL": "King%20Kong%20Bundy.png",
+      "imgURL": "Rikishi.png",
       "previewImgUrl": "",
       "levelId": 8
     },
