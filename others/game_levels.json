@@ -6,6 +6,7 @@
       "currentLevel": 1,
       "totalCompleted": 0,
       "totalUnlock": 0,
+      "isLocked": false,
       "totalQuestions": 10
     },
     {
@@ -13,6 +14,7 @@
       "currentLevel": 2,
       "totalCompleted": 0,
       "totalUnlock": 5,
+      "isLocked": true,
       "totalQuestions": 10
     },
     {
@@ -20,6 +22,7 @@
       "currentLevel": 3,
       "totalCompleted": 0,
       "totalUnlock": 10,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -27,6 +30,7 @@
       "currentLevel": 4,
       "totalCompleted": 0,
       "totalUnlock": 15,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -34,6 +38,7 @@
       "currentLevel": 5,
       "totalCompleted": 0,
       "totalUnlock": 20,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -41,6 +46,7 @@
       "currentLevel": 6,
       "totalCompleted": 0,
       "totalUnlock": 30,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -48,6 +54,7 @@
       "currentLevel": 7,
       "totalCompleted": 0,
       "totalUnlock": 35,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -55,6 +62,7 @@
       "currentLevel": 8,
       "totalCompleted": 0,
       "totalUnlock": 40,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -62,6 +70,7 @@
       "currentLevel": 9,
       "totalCompleted": 0,
       "totalUnlock": 50,
+      "isLocked": true,
       "totalQuestions": 15
     },
     {
@@ -69,6 +78,7 @@
       "currentLevel": 10,
       "totalCompleted": 0,
       "totalUnlock": 60,
+      "isLocked": true,
       "totalQuestions": 15
     }
   ]
