@@ -20,7 +20,7 @@
       "game_cat_name": "Trivia Quiz",
       "game_cat_img": "https://androidworldpro.github.io/game.github.io/assets/question_answer.png",
       "game_cat_desc": "This is description of Trivia Quiz",
-      "game_cat_available": false     
+      "game_cat_available": true     
     }
   ]
 }
