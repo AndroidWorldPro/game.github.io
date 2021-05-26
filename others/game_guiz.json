@@ -496,6 +496,19 @@
       "imgURL": ""
     },
     {
+      "id": 39,
+      "title": "Who was a top star in Japan before making the jump to WWE?",
+      "option1": "Tatanka",
+      "option2": "Shinsuke Nakamura",
+      "option3": "Seth Rollins",
+      "option4": "Samoa Joe",
+      "answer": "Shinsuke Nakamura",
+      "userAnswer": "",
+      "isPlayed": false,
+      "isImgQues": false,
+      "imgURL": ""
+    },
+    {
       "id": 40,
       "title": "What is Randy Orton's finishing move?",
       "option1": "the WMD",
@@ -1304,8 +1317,8 @@
     {
       "id": 98,
       "title": "Who is the longest reigning WWE Champion?",
-      "option1": "The rock",
-      "option2": "Scott hall",
+      "option1": "The Rock",
+      "option2": "Scott Hall",
       "option3": "Fandango",
       "option4": "Bruno Sammartino",
       "answer": "Bruno Sammartino",
@@ -1516,7 +1529,7 @@
       "option2": "Stuck Mojo",
       "option3": "Judas",
       "option4": "Avenged Sevenfold",
-      "answer": "",
+      "answer": "Fozzy",
       "userAnswer": "",
       "isPlayed": false,
       "isImgQues": false,
@@ -2928,7 +2941,7 @@
     },
     {
       "id": 222,
-      "title": "Who won tough enough?",
+      "title": "Who won WWE Tough Enough season 5?",
       "option1": "Randy",
       "option2": "Luke",
       "option3": "Jeremiah",
@@ -4050,7 +4063,7 @@
       "option2": "Mick Foley",
       "option3": "Yokozuna",
       "option4": "Adam Cole",
-      "answer": "",
+      "answer": "Mick Foley",
       "userAnswer": "",
       "isPlayed": false,
       "isImgQues": true,
