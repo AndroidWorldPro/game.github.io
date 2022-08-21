@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "duration": 21000,
+    "title": "ajstyles.mp3",
+    "name": "AJ Styles",
+    "brief": "AKA : The Phenomenal",
+    "details": "During his recent run in New Japan Pro Wrestling, A.J. Styles became the first non-Japanese wrestler to win the IWGP heavyweight title since Brock Lesnar back in 2005"
+  },
+  {
+    "id": 2,
+    "duration": 27000,
+    "title": "andrethegiant.mp3",
+    "name": "Andre the Giant",
+    "brief": "Grenoble, in the French Alps",
+    "details": "His size was a result of gigantism caused by excess growth hormone, which later resulted in acromegaly. It also led to his being called \"The Eighth Wonder of the World\""
+  },
+  {
+    "id": 3,
+    "duration": 23400,
+    "title": "atrain.mp3",
+    "name": "A-Train / Prince Albert",
+    "brief": "Real name : Matt Bloom , Hometown : Orlando, Florida,United States",
+    "details": "He was a star football player at the University of Pittsburgh, had a brief NFL career, and then became a schoolteacher before quitting to follow a lifelong wrestling dream."
+  },
+  {
+    "id": 4,
+    "duration": 30000,
+    "title": "batista.mp3",
+    "name": "Batista",
+    "brief": "The animal unleashed , Finisher : Powerbomb",
+    "details": "Batista held several jobs in his early adulthood - as Bouncer, Bodybuilder and Lifeguard."
+  },
+  {
+    "id": 5,
+    "duration": 21000,
+    "title": "bethphoenix.mp3",
+    "name": "Beth phoenix",
+    "brief": "Aka : thes Glamazon",
+    "details": "Apart from being the second ever women to enter royal rumble she is also the youngest WWE hall of Fame Inductee."
+  },
+  {
+    "id": 6,
+    "duration": 19200,
+    "title": "bigshow.mp3",
+    "name": "The Big Show",
+    "brief": "Known as the world's largest athlete.",
+    "details": "Big Show played basketball while he was in high school, junior college, and university. His average in high school was more than 32 points, with a whopping 20 rebounds and 11 blocks average per game."
+  },
+  {
+    "id": 7,
+    "duration": 19800,
+    "title": "bobbacklund.mp3",
+    "name": "Bob Backlund",
+    "brief": "Submission lock : Crossface chickenwing",
+    "details": "He attended Waldorf Junior College, where he was an All-American in both wrestling and football."
+  },
+  {
+    "id": 8,
+    "duration": 24000,
+    "title": "bobbylashley.mp3",
+    "name": "Bobby Lashley",
+    "brief": "finisher : Dominator",
+    "details": "He is The First African-American ECW Champion."
+  },
+  {
+    "id": 9,
+    "duration": 18600,
+    "title": "boogeyman.mp3",
+    "name": "Boogey Man",
+    "brief": "Ring name : the nightcrawler",
+    "details": "He was titled Rookie of the Year (2006)"
+  },
+  {
+    "id": 10,
+    "duration": 12000,
+    "title": "bookert.mp3",
+    "name": "Booker-T",
+    "brief": "Finishing move : Book End   Hometown : Texas City",
+    "details": "Booker-T is the first non-mixed race African American to become a world champion in WWE,and was voted the greatest World Heavyweight Champion in a WWE viewer poll."
+  },
+  {
+    "id": 11,
+    "duration": 24000,
+    "title": "braywyatt.mp3",
+    "name": "Bray Wyatt",
+    "brief": "Finishing move : Sister Abigail",
+    "details": "Apart from Cena and Austin, Bray is another name who used the Stunner. And he did not use it for a filler move; he used it as a finisher. This happened back during his Axel Mulligan days."
+  },
+  {
+    "id": 12,
+    "duration": 18600,
+    "title": "brethart.mp3",
+    "name": "Bret the Hitman Hart",
+    "brief": "finisher : Sharpshooter",
+    "details": "Sunglasses became a part of Harts iconic look, but the reason he initially decided to don them was due to a lack of confidence when he was starting out. Hart noticed in a promo, which never made it to air due to technical issues, that his eyes made him look nervous and decided to shield them with sunglasses"
+  },
+  {
+    "id": 13,
+    "duration": 18000,
+    "title": "britishbulldog.mp3",
+    "name": "The British Bulldog",
+    "brief": "From Manchester, England - Real name : David Smith",
+    "details": "He was the inaugural WWF European Champion and holds the records for longest single reign (206 days) and total days as champion."
+  },
+  {
+    "id": 14,
+    "duration": 18600,
+    "title": "brocklesnar.mp3",
+    "name": "Brock Lesnar",
+    "brief": "AKA : The Beast Incarnate",
+    "details": "Lesnar has never lost to The Undertaker when they have been the main event for PPV. The world was shocked when he beat The Deadman at WrestleMania XXX and The Undertaker has never gotten his revenge."
+  },
+  {
+    "id": 15,
+    "duration": 18000,
+    "title": "carlito.mp3",
+    "name": "Carlito",
+    "brief": "Finishing move : Backstabber  Origin : The Caribbean",
+    "details": "Carlito made his debut on the main event of SmackDown! as Carlito Caribbean Cool. He is the only wrestler to win a championship on two separate debuts in WWE and the second Puerto Rican to become Intercontinental Champion after Pedro Morales"
+  },
+  {
+    "id": 16,
+    "duration": 21000,
+    "title": "chrisbenoit.mp3",
+    "name": "Chris Benoit'",
+    "brief": "Aka : The Rabid Wolverine",
+    "details": "Toothless aggression’ is a phrase that is closely associated with BenoitThe tooth actually popped out while Benoit was playing with his pet Rottweiler."
+  },
+  {
+    "id": 17,
+    "duration": 13200,
+    "title": "chrisjericho.mp3",
+    "name": "Chris Jericho",
+    "brief": "Finisher : Codebreaker, Walls of Jericho",
+    "details": "Chris is a man of many talents that extend beyond the ring. Not only is he a WWE Superstar, but he is also the lead singer of a rock band named Fozzy."
+  },
+  {
+    "id": 18,
+    "duration": 23400,
+    "title": "christian.mp3",
+    "name": "Christian",
+    "brief": "Finisher : Killswitch Engage",
+    "details": "Taking inspiration from the biggest star of the nineties, the future Captain Charisma found his name. The Christian name comes from Christian Slater, star of True Romance"
+  },
+  {
+    "id": 19,
+    "duration": 18000,
+    "title": "chyna.mp3",
+    "name": "Chyna'",
+    "brief": "Aka : Ninth Wonder of the World ",
+    "details": "A lesser known fact about the wrestling great is her scholarly past. Chyna graduated with a major in Spanish Literature from the University of Tampa in Florida in 1992. She also studied German and French and university and can converse in both languages"
+  },
+  {
+    "id": 20,
+    "duration": 18000,
+    "title": "cmpunk.mp3",
+    "name": "CM Punk",
+    "brief": "Finisher : Go to Sleep - The voice of the Voiceless",
+    "details": "CM stands for chick magnet. So, his name is ‘Chick Magnet Punk.’"
+  },
+  {
+    "id": 22,
+    "duration": 18000,
+    "title": "danielbryan.mp3",
+    "name": "Daniel Bryan",
+    "brief": "Known for his YES!! chant",
+    "details": "Daniel Bryan is an environmentalist does his best to live as green as possible and is a huge proponent of solar panel use and sustainable living."
+  },
+  {
+    "id": 23,
+    "duration": 18000,
+    "title": "diesel.mp3",
+    "name": "Kevin Nash (Diesel)",
+    "brief": "AKA : the Big Sexy",
+    "details": "Nash's 358-day WWF Championship reign is the longest of the 1990s.In WCW, Nash became the first wrestler to defeat Goldberg and in the process ended his undefeated streak of 173–0 at Starrcade in 1998."
+  },
+  {
+    "id": 24,
+    "duration": 18000,
+    "title": "dolphziggler.mp3",
+    "name": "Dolph Ziggler",
+    "brief": "Finishing move : Zig-Zag  Hometown : Hollywood",
+    "details": "He is named after his great-grandfather Dolph. The name means “Noble wolf” in Swedish. The last name, Ziggler, came from his friends and he liked it so much it stuck."
+  },
+  {
+    "id": 25,
+    "duration": 21000,
+    "title": "dudleyboyz.mp3",
+    "name": "The Dudley Boyz",
+    "brief": "Aka : Team 3D",
+    "details": "They are The Only Tag Team To Have Held The 7 Major Championships."
+  },
+  {
+    "id": 26,
+    "duration": 34800,
+    "title": "dx.mp3",
+    "name": "DX",
+    "brief": "Gang of rebels founded by HBK and Triple-H",
+    "details": "Bret Hart \"Named\" D-Generation X.During one of Bret Hart`s promos directed at Shawn and Triple H, he told them \"You`re nothing but a couple of degenerates.\""
+  },
+  {
+    "id": 27,
+    "duration": 18000,
+    "title": "eddieguerrero.mp3",
+    "name": "Eddie Guerrero",
+    "brief": "Finishing move : Frog Splash",
+    "details": "Eddie once wore a mask When Eddie first started out wrestling, it was under the ring name ‘Mascara Magica’ in the CMLL foundation."
+  },
+  {
+    "id": 28,
+    "duration": 27600,
+    "title": "edge.mp3",
+    "name": "Edge",
+    "brief": "The Rated-R superstar",
+    "details": "One of the most decorated superstars of all time.He is the only wrestler in history to win a King of the ring tournament,Money in the bank ladder match and a royal rumble match."
+  },
+  {
+    "id": 29,
+    "duration": 23400,
+    "title": "evolution.mp3",
+    "name": "Evolution",
+    "brief": "The villainous stable was a part of WWE`s Raw brand between 2003 and 2005 and during 2007 and 2014.",
+    "details": "The stable catapulted Randy Orton and Batista`s career.14 years on, the pair have won 17 world titles between them, four Royal Rumbles and headlined multiple WrestleManias, including together alongside Daniel Bryan in 2014."
+  },
+  {
+    "id": 30,
+    "duration": 25800,
+    "title": "fourhorsemen.mp3",
+    "name": "Four Horsemen",
+    "brief": "The original members of the stable were Ric Flair, Arn Anderson, Tully Blanchard, and Ole Anderson.",
+    "details": "Unlike The Bullet Club or the nWo, The Four Horsemen required more than a pulse to be a member. Being a Horsemen meant that you were the best the business had to offer. It was a tight knit group and being a Horsemen was an achievement and an honor."
+  },
+  {
+    "id": 31,
+    "duration": 19200,
+    "title": "goldberg.mp3",
+    "name": "Bill Goldberg",
+    "brief": "Moves : the jackhammer & speare",
+    "details": "While Goldberg was playing for the Atlanta Falcons, he used to be a member of a gym that was owned by Sting and Lex Luger. In an interview with Sports Illustrated, Goldberg credits Sting with changing his mind about the wrestling business."
+  },
+  {
+    "id": 32,
+    "duration": 66600,
+    "title": "hardyboyz.mp3",
+    "name": "The Hardy Boyz",
+    "brief": "Real life brothers as Billed from Cameron, North Carolina, U.S.",
+    "details": "Long before their days in the WWE, the Hardy brothers were huge wrestling fans as youngsters and started their own backyard wrestling promotion with their friends called Trampoline Championship Wrestling"
+  },
+  {
+    "id": 33,
+    "duration": 18000,
+    "title": "hulkhogan.mp3",
+    "name": "Hulk Hogan",
+    "brief": "Aka : The real American",
+    "details": "In 1985 Hulk faced the worst fear of superstitious athletes everywhere by appearing on the cover of Sports Illustrated, becoming the first wrestler to ever grace the front of the iconic magazine."
+  },
+  {
+    "id": 34,
+    "duration": 19200,
+    "title": "hurricane.mp3",
+    "name": "The Hurricane",
+    "brief": "Finisher : Vertebreaker  , Hometown : Smithfield, North Carolina",
+    "details": "He was a two-time Cruiserweight Champion, a European Champion and Hardcore Champion during his time in the WWE."
+  },
+  {
+    "id": 35,
+    "duration": 15600,
+    "title": "ironsheik.mp3",
+    "name": "Iron Sheik",
+    "brief": "Submission Lock : The Camel Clutch",
+    "details": "It turns out that Sheik made Rock aware of \"jabroni\" early in his career, when the two were on a flight together. Rock took to the word quickly and he worked it into his regular routine."
+  },
+  {
+    "id": 36,
+    "duration": 18000,
+    "title": "jackswagger.mp3",
+    "name": "Jack Swagger",
+    "brief": "Finishing move : Patriot Lock   Hometown : Perry,Oklahoma'",
+    "details": "Jack swagger played two sports at the University of Oklahoma before focusing on wrestling. He was an All American as a heavyweight his senior year, recording 30 pins."
+  },
+  {
+    "id": 37,
+    "duration": 19200,
+    "title": "jbl.mp3",
+    "name": "John Bradshaw Layfield",
+    "brief": "Finisher : Clothesline from Hell",
+    "details": "JBL is one rich guy, let’s get this out the way. John Layfield is reported to have a net worth of $9 Million+ earned through his own ventures and his employment with WWE."
+  },
+  {
+    "id": 38,
+    "duration": 24000,
+    "title": "jeffhardy.mp3",
+    "name": "Jeff Hardy",
+    "brief": "Finishing move : Twist of Fate",
+    "details": "Hardy is still acknowledged for his initial work during his first run with WWE and is best known for his daredevil series of TLC matches.Hardy is involved in motocross, music, painting and other artistic endeavors. He is currently a member of the band PeroxWhy?Gen"
+  },
+  {
+    "id": 39,
+    "duration": 24000,
+    "title": "johncena.mp3",
+    "name": "John Cena",
+    "brief": "Finisher : Attitude Adjustment Hometown :West Newbury,Massachusetts",
+    "details": "This may come as no surprise to some, but John Cena holds the world record for Make-A-Wish Foundation wishes granted, with over 500 – more than double what the next runner-ups have."
+  },
+  {
+    "id": 40,
+    "duration": 21000,
+    "title": "johnmorrison.mp3",
+    "name": "John Morrison - Johnny Nitro",
+    "brief": "Finisher : Starship Pain",
+    "details": "Morrisons first contact WWE came when he auditioned for the second series of Tough Enough, but he failed to make it through to the final process the main reason was that Kevin Dunn found him to be too much of a showoff, despite the praise of other judges including Jim Ross."
+  },
+  {
+    "id": 41,
+    "duration": 18000,
+    "title": "kane.mp3",
+    "name": "Kane",
+    "brief": "One half of the brothers of destruction.",
+    "details": "In WWE, Kane is a three-time world champion and a 12-time world tag team champion.Kane holds the record for cumulative Royal Rumble match eliminations at 44."
+  },
+  {
+    "id": 42,
+    "duration": 18000,
+    "title": "kofikingston.mp3",
+    "name": "Kofi Kingston",
+    "brief": "Finisher : S.O.S, Trouble in Paradise Hometown :  GHANA",
+    "details": "Kofi credits his training in the martial art \"Capoeira\" for his kick-based offense in the ring. Capoeira requires a lot of agility in order to take out opponents with various spin kicks while distracting them with flips."
+  },
+  {
+    "id": 43,
+    "duration": 15600,
+    "title": "kurtangle.mp3",
+    "name": "Kurt Angle",
+    "brief": "Moves : Ankle-lock , Angle Slam",
+    "details": "After winning gold at the summer Olympics in 1996, Kurt considered joining UFC. UFC offered him a deal which consisted of 10 fights and $150,000, which he rejected because he thought the risks involved in fighting were not worth it."
+  },
+  {
+    "id": 45,
+    "duration": 23400,
+    "title": "markhenry.mp3",
+    "name": "Mark Henry",
+    "brief": "Finishing move : The Worlds Strongest Slam",
+    "details": "He is a two-time Olympian and a gold, silver, and bronze medalist at the Pan American Games in 1995.As a powerlifter, he was WDFPF World Champion (1995) and a two-time U.S. National Champion as well as an all-time raw world record holder in the squat and deadlift."
+  },
+  {
+    "id": 46,
+    "duration": 21000,
+    "title": "matthardy.mp3",
+    "name": "Matt Hardy",
+    "brief": "finisher : Twist of Fate",
+    "details": "In high school, Matt was an excellent student. His grades made him eligible for many prestigious schools and awards, but he simply wasnt motivated and didnt apply himself to the level he shouldve. In his senior year, he was nominated for the Morehead Award, considered to be the most prestigious scholarship in the state of North Carolina."
+  },
+  {
+    "id": 47,
+    "duration": 18000,
+    "title": "mickfoley.mp3",
+    "name": "Mick Foley",
+    "brief": "Moves : Mr.Socko",
+    "details": "He Is A Three-Time New York Times Best Selling Author"
+  },
+  {
+    "id": 48,
+    "duration": 30000,
+    "title": "mrperfect.mp3",
+    "name": "Mr. Perfect",
+    "brief": "Father of current WWE wrestler Curtis Axel",
+    "details": "WCW recognized Hennig as \"one of the best all-round competitors this [wrestling] business has ever produced\", while WWE credited him for raising the accepted standard of technical wrestling.He was inducted into the WWE Hall of Fame in 2007."
+  },
+  {
+    "id": 49,
+    "duration": 15600,
+    "title": "nationofdomination.mp3",
+    "name": "Nation of Domination",
+    "brief": "The Rock was a part of this Stable",
+    "details": "The nation of Domination had few title runs.Thankfully with Faarooq and the Godfather, the Nation now has two members in the Hall of Fame"
+  },
+  {
+    "id": 50,
+    "duration": 20400,
+    "title": "newday.mp3",
+    "name": "The New Day",
+    "brief": "Stable members include Kofi Kingston",
+    "details": "On December 14, 2016, they became the longest reigning tag team champions in WWE history (beating Demolition`s 28-year-old record of 478 days with WWE`s original World Tag Team Championship)"
+  },
+  {
+    "id": 51,
+    "duration": 24000,
+    "title": "nexus.mp3",
+    "name": "Nexus",
+    "brief": "A professional wrestling stable in WWE that competed on the Raw brand originally consisting of eight rookies of NXT season one.",
+    "details": "The Nexus originally debuted shortly after the first season of NXT during it`s game show era. It included Wade Barrett, Skip Sheffield, Darren Young, Heath Slater, Michael Tarver, David Otunga, Justin Gabriel and Daniel Bryan. Bryan was kicked out of the group early on due to a real firing from WWE."
+  },
+  {
+    "id": 52,
+    "duration": 24000,
+    "title": "nwo.mp3",
+    "name": "NWO",
+    "brief": "It is a professional wrestling stable that originally consisted of \"Hollywood\" Hulk Hogan, Scott Hall and Kevin Nash.",
+    "details": "Nash And Hogan Own Half Of NWO Merchandise Rights"
+  },
+  {
+    "id": 53,
+    "duration": 21000,
+    "title": "owenhart.mp3",
+    "name": "Owen Hart",
+    "brief": "Finisher : Bridging Northern Lights suplex , Sharpshooter",
+    "details": "He was the 1994 WWF King of the Ring."
+  },
+  {
+    "id": 54,
+    "duration": 16800,
+    "title": "papashango.mp3",
+    "name": "Papa Shango / The Godfather",
+    "brief": "Ring name: The Godfather & finisher : Inverted shoulder breaker",
+    "details": "Wright is a two-time USWA Unified World Heavyweight Champion, a one-time WWF Intercontinental Champion, and a one-time WWF Tag Team Champion (with Bull Buchanan)"
+  },
+  {
+    "id": 55,
+    "duration": 24000,
+    "title": "randyorton.mp3",
+    "name": "Randy Orton",
+    "brief": "Aka : The Viper, Legend killer",
+    "details": "After his discharge from the marines, Ortons began refereeing for World Organized Wrestling.Mere months later he landed a contract with WWE."
+  },
+  {
+    "id": 56,
+    "duration": 24000,
+    "title": "randysavage.mp3",
+    "name": "Randy Savage (Macho Man)",
+    "brief": "Finisher : Diving elbow drop",
+    "details": "Savage was drafted by the St.Louis Cardinals in the early 1970s and he spent five years playing in the minor leagues."
+  },
+  {
+    "id": 57,
+    "duration": 10200,
+    "title": "raw.mp3",
+    "name": "",
+    "brief": "",
+    "details": ""
+  },
+  {
+    "id": 58,
+    "duration": 18000,
+    "title": "reymysterio.mp3",
+    "name": "Rey Mysterio",
+    "brief": "Finishing move : 619   Hometown : Chula Vista, California",
+    "details": "Mysterio released a song called ‘Booyaka 619’ in 2005, and he performed it during his entrance to the ring with rapper Madd One."
+  },
+  {
+    "id": 59,
+    "duration": 21000,
+    "title": "ricflair.mp3",
+    "name": "Ric Flair",
+    "brief": "Aka : the Nature Boy",
+    "details": "Ric Flairs holds the record for winning the most wrestling World Heavyweight Championships"
+  },
+  {
+    "id": 60,
+    "duration": 21000,
+    "title": "rikishi.mp3",
+    "name": "Rikishi",
+    "brief": "Finisher : Banzai Drop",
+    "details": "In 1996, Rikishi gimmicked as The Sultan. He was masked and never spoke supposably because his tongue had been cut out."
+  },
+  {
+    "id": 61,
+    "duration": 27000,
+    "title": "roaddogg.mp3",
+    "name": "Road Dogg",
+    "brief": "Was once a member of the group DX and New age outlaws",
+    "details": " James (Real name) served in the United States Marine Corps. His tenure lasted from 1987 to 1993 and he fought in Operation Desert Storm in 1991, where he was a platoon sergeant in command of thirty-three Marines"
+  },
+  {
+    "id": 62,
+    "duration": 21000,
+    "title": "robvandam.mp3",
+    "name": "Rob Van Dam",
+    "brief": "Moves : Rolling Thunder , Finisher : Five star Frog Splash",
+    "details": "In 2002, Van Dam was ranked the number one wrestler in the world by Pro Wrestling Illustrated. He was voted “Most Popular Wrestler” by readers of the magazine in 2001 and again in 2002."
+  },
+  {
+    "id": 63,
+    "duration": 24000,
+    "title": "roddypiper.mp3",
+    "name": "Rowdy Roddy Piper",
+    "brief": "Finisher : sleeper hold , Hometown : Glasgow ",
+    "details": "Perhaps the most infamous moment of Piper’s career was when he smashed a (real) coconut over the head of Jimmy Snuka on the set of Piper’s Pit, which legitimately hurt snuka"
+  },
+  {
+    "id": 64,
+    "duration": 18000,
+    "title": "romanreigns.mp3",
+    "name": "Roman Reigns",
+    "brief": "The Samoan member of the Shield",
+    "details": "Reigns is a part of the same famous wrestling family that The Rock is. In the 2014 Royal Rumble Reigns made a new record by eliminating 12 opponents before he was finally eliminated."
+  },
+  {
+    "id": 65,
+    "duration": 19800,
+    "title": "santinomarella.mp3",
+    "name": "Santino Marella",
+    "brief": "Finisher : Cobra Strike",
+    "details": "one of his biggest goals in doing what he does as Santino Marella is to get a reaction out of his fellow wrestlers and Divas. When he's involved in promos or segments with other people, he intentionally sets out to have them break character and laugh, or at least smile, at his antics."
+  },
+  {
+    "id": 66,
+    "duration": 24000,
+    "title": "scotthall.mp3",
+    "name": "Scott Hall",
+    "brief": "Former member of the New World Order - NWO",
+    "details": "Scott Hall spent his high school years in Munich, Germany before he began wrestling in Germany, Japan and Puerto Rico."
+  },
+  {
+    "id": 67,
+    "duration": 18000,
+    "title": "scottsteiner.mp3",
+    "name": "Scott Steiner",
+    "brief": "Aka : Big Poppa Pump",
+    "details": "Steiner is a decorated tag team wrestler. During the 80s and 90s he wrestled alongside his older brother Rick as The Steiner Brothers, being considered one of the best tag teams of all time."
+  },
+  {
+    "id": 68,
+    "duration": 23400,
+    "title": "scotty2hotty.mp3",
+    "name": "Scotty 2 Hotty",
+    "brief": "Finishing move : The Worm , Hometown : Orlando, Florida",
+    "details": "In February 2013, Garland began training as a firefighter. In June 2013, he graduated from the Lake Tech Fire Academy in Florida"
+  },
+  {
+    "id": 69,
+    "duration": 27000,
+    "title": "sgtslaughter.mp3",
+    "name": "Sgt. Slaughter",
+    "brief": "Aka : The Executioner",
+    "details": "Before he became the most feared man in any communist regime, Sarge went by his given name of Robert Remus. Unlike Captain Lou Albano, Remus actually earned his wrestling nickname as a Marine Corps drill sergeant on Parris Island. Presumably, this is where he learned to call people maggots"
+  },
+  {
+    "id": 70,
+    "duration": 18000,
+    "title": "shanemcmahon.mp3",
+    "name": "Shane McMahon",
+    "brief": "Son of Vince McMahon",
+    "details": "McMahon is a fourth generation wrestling promoter as a member of the McMahon family.Known for his high-risk moves, he won the European Championship once and the Hardcore Championship once."
+  },
+  {
+    "id": 71,
+    "duration": 18000,
+    "title": "shawnmichaels.mp3",
+    "name": "Shawn Michaels - HBK",
+    "brief": "Aka : the show stopper",
+    "details": "Shawn knew he wanted to be a professional wrestler at the age of 12 and even performed a routine in his high schools talent show, complete with fake blood."
+  },
+  {
+    "id": 72,
+    "duration": 18000,
+    "title": "sheamus.mp3",
+    "name": "Sheamus",
+    "brief": "Aka : the Celtic Warrior",
+    "details": "From 1999-2007 Sheamus worked for a few different IT companies including Symantec and Hartford Life in Dublin. While working his IT jobs he made CAT-5 cables and used Ghost to image machines."
+  },
+  {
+    "id": 73,
+    "duration": 21000,
+    "title": "sheltonbenjamin.mp3",
+    "name": "Shelton Benjamin",
+    "brief": "Moves : Superkick ,Ankle-lock,  Hometown : Orangeburg,South Carolina",
+    "details": "Shelton Benjamin is one of the best pure athletes in the history of the WWE. He was a high school heavyweight wrestling champion. He later became a two-time All American at the University of Minnesota."
+  },
+  {
+    "id": 74,
+    "duration": 20400,
+    "title": "shinsuke.mp3",
+    "name": "Shinsuke Nakamura",
+    "brief": "Finishing move : Kinshansa",
+    "details": "He Was The Youngest IWGP Heavyweight Champion In History and also had a short, successful MMA career"
+  },
+  {
+    "id": 75,
+    "duration": 21000,
+    "title": "stephaniemcmahon.mp3",
+    "name": "Stephanie McMahon",
+    "brief": "Currently chief brand officer for WWE.",
+    "details": "She struggled with her weight for a long time. In an interview with RXMuscle she admitted to having a difficult relationship with food and body image as a teenager."
+  },
+  {
+    "id": 76,
+    "duration": 30000,
+    "title": "sting.mp3",
+    "name": "sting",
+    "brief": "Aka : Blade runner flash",
+    "details": "Prior to signing with WWE, the promotion referred to Sting as the greatest wrestler to never wrestle for them. WWE also called Sting the greatest superstar in WCW history before he eventually signing with the promotion in 2014."
+  },
+  {
+    "id": 77,
+    "duration": 18000,
+    "title": "stonecold.mp3",
+    "name": "Stone Cold Steve Austin",
+    "brief": "Finishing move : Stunner",
+    "details": "Vince McMahon said that when it came to addressing box office drawing power, Austin was the most profitable wrestler in the history of the WWE.Hes held 21 championships throughout his wrestling career."
+  },
+  {
+    "id": 78,
+    "duration": 18000,
+    "title": "tajiri.mp3",
+    "name": "Tajiri",
+    "brief": "Known for spitting Green mist thereby blinding his opponent. Origin : Japan",
+    "details": "Tajiri initially wanted to be a kickboxer and was training for it.It was the lucha libre of Mexico that eventually convinced him to enter the Animal Hamaguchi Wrestling Gym"
+  },
+  {
+    "id": 79,
+    "duration": 20400,
+    "title": "test.mp3",
+    "name": "Test",
+    "brief": "Finisher : Test Drive",
+    "details": "Ranked No. 37 of the 500 top singles wrestlers of the year in the PWI 500 in 2001"
+  },
+  {
+    "id": 80,
+    "duration": 72000,
+    "title": "therock.mp3",
+    "name": "The Rock",
+    "brief": "Aka : The Peoples Champion",
+    "details": "WWE Smackdown! is named after The Rocks catchphrase \"layeth the smackdown.The played theme is the Rocks hollywood theme."
+  },
+  {
+    "id": 82,
+    "duration": 21000,
+    "title": "tripleh.mp3",
+    "name": "Triple H",
+    "brief": "Aka : The king of kings",
+    "details": "His total of 14 world championships is the third-most all-time (recognized by WWE) behind only Ric Flair and John Cena."
+  },
+  {
+    "id": 84,
+    "duration": 20400,
+    "title": "trishstratus.mp3",
+    "name": "Trish Stratus",
+    "brief": "From Toronto, Ontario, Canada",
+    "details": "Stratus is the longest reigning champion of the new millennium, holding the title for a whopping 448 days."
+  },
+  {
+    "id": 85,
+    "duration": 18000,
+    "title": "ultimatewarrior.mp3",
+    "name": "The Ultimate Warrior",
+    "brief": "Finisher : Ultimate Splash",
+    "details": "Warrior became a two-time WWF Intercontinental Heavyweight Champion and won the WWF World Heavyweight Championship at WrestleMania VI in Toronto, making him the first wrestler to hold both titles concurrently."
+  },
+  {
+    "id": 86,
+    "duration": 18000,
+    "title": "umaga.mp3",
+    "name": "Umaga",
+    "brief": "Finisher : Samoan spike Hometown : San Francisco, California",
+    "details": "He began in the WWE in 2005 as part of the Raw Brand, serving as the enforcer for The McMahons, Vince and Shane"
+  },
+  {
+    "id": 87,
+    "duration": 18000,
+    "title": "undertaker.mp3",
+    "name": "The Undertaker",
+    "brief": "Aka : The Dead Man",
+    "details": "The Undertaker started playing basketball after he entered university from high school and in the year 1985, he played basketball for his college team."
+  },
+  {
+    "id": 88,
+    "duration": 21000,
+    "title": "usos.mp3",
+    "name": "The USOS",
+    "brief": "They are sons to former WWE wrestler Rikishi",
+    "details": "The Usos are members of the renowned Anoa`i family of Samoan wrestlers, which also includes their father Rikishi, uncle Umaga, and cousins Yokozuna and Roman Reigns"
+  },
+  {
+    "id": 89,
+    "duration": 21600,
+    "title": "vladimirkozlov.mp3",
+    "name": "Vladimir Kozlov",
+    "brief": "Moves : The iron Curtain",
+    "details": "He is trained in freestyle wrestling, rugby, football, sambo, kickboxing, judo, jujutsu, Brazilian jiu-jitsu and mixed martial arts."
+  },
+  {
+    "id": 90,
+    "duration": 18000,
+    "title": "williamregal.mp3",
+    "name": "William (Steven) Regal",
+    "brief": "King of the Ring 2008",
+    "details": "He started wrestling when he was 15 years old. He Worked As A Bricklayer In His Teens for a few weeks "
+  },
+  {
+    "id": 91,
+    "duration": 27000,
+    "title": "xpac.mp3",
+    "name": "X-pac",
+    "brief": "Known as 1-2-3 KID",
+    "details": "He is the only wrestler to have held the TNA X Division Championship, the WCW Cruiserweight Championship and the WWF Light Heavyweight Championship."
+  }
+]
