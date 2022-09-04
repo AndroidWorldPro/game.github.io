@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "duration": 21000,
+    "duration": 40000,
     "musicUrl": "ajstyles.mp3",
     "name": "AJ Styles",
     "wrestlerImg": "AJ Styles.png",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "duration": 27000,
+    "duration": 45000,
     "musicUrl": "andrethegiant.mp3",
     "name": "Andre the Giant",
     "wrestlerImg": "Andre The Giant.png",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "duration": 23400,
+    "duration": 39000,
     "musicUrl": "atrain.mp3",
     "name": "A-Train / Prince Albert",
     "wrestlerImg": "Atrain.png",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "duration": 30000,
+    "duration": 50000,
     "musicUrl": "batista.mp3",
     "name": "Batista",
     "wrestlerImg": "Batista.png",
@@ -37,7 +37,7 @@
   },
   {
     "id": 6,
-    "duration": 19200,
+    "duration": 32000,
     "musicUrl": "bigshow.mp3",
     "name": "The Big Show",
     "wrestlerImg": "Big Show.png",
@@ -46,7 +46,7 @@
   },
   {
     "id": 7,
-    "duration": 19800,
+    "duration": 33000,
     "musicUrl": "bobbacklund.mp3",
     "name": "Bob Backlund",
     "wrestlerImg": "Bob Backlund.png",
@@ -55,7 +55,7 @@
   },
   {
     "id": 8,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "bobbylashley.mp3",
     "name": "Bobby Lashley",
     "wrestlerImg": "Bobby Lashley.png",
@@ -64,7 +64,7 @@
   },
   {
     "id": 9,
-    "duration": 18600,
+    "duration": 31000,
     "musicUrl": "boogeyman.mp3",
     "name": "Boogey Man",
     "wrestlerImg": "Boogeyman.png",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "duration": 12000,
+    "duration": 20000,
     "musicUrl": "bookert.mp3",
     "name": "Booker-T",
     "wrestlerImg": "Bookerty.jpg",
@@ -82,7 +82,7 @@
   },
   {
     "id": 11,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "braywyatt.mp3",
     "name": "Bray Wyatt",
     "wrestlerImg": "Bray Wyatt.png",
@@ -91,7 +91,7 @@
   },
   {
     "id": 12,
-    "duration": 18600,
+    "duration": 31000,
     "musicUrl": "brethart.mp3",
     "name": "Bret the Hitman Hart",
     "wrestlerImg": "Bret.png",
@@ -100,7 +100,7 @@
   },
   {
     "id": 13,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "britishbulldog.mp3",
     "name": "The British Bulldog",
     "wrestlerImg": "Davey_Boy_Smith.png",
@@ -109,7 +109,7 @@
   },
   {
     "id": 14,
-    "duration": 18600,
+    "duration": 31000,
     "musicUrl": "brocklesnar.mp3",
     "name": "Brock Lesnar",
     "wrestlerImg": "Brock_Lesnar.png",
@@ -118,7 +118,7 @@
   },
   {
     "id": 15,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "carlito.mp3",
     "name": "Carlito",
     "wrestlerImg": "Carlito.png",
@@ -127,7 +127,7 @@
   },
   {
     "id": 16,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "chrisbenoit.mp3",
     "name": "Chris Benoit'",
     "wrestlerImg": "Chris Benoit.png",
@@ -136,7 +136,7 @@
   },
   {
     "id": 17,
-    "duration": 13200,
+    "duration": 22000,
     "musicUrl": "chrisjericho.mp3",
     "name": "Chris Jericho",
     "wrestlerImg": "Chris_Jericho.png",
@@ -145,7 +145,7 @@
   },
   {
     "id": 18,
-    "duration": 23400,
+    "duration": 39000,
     "musicUrl": "christian.mp3",
     "name": "Christian",
     "wrestlerImg": "Christian.png",
@@ -154,7 +154,7 @@
   },
   {
     "id": 20,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "cmpunk.mp3",
     "name": "CM Punk",
     "wrestlerImg": "CM_Punk.png",
@@ -163,7 +163,7 @@
   },
   {
     "id": 22,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "danielbryan.mp3",
     "name": "Daniel Bryan",
     "wrestlerImg": "Daniel_Bryan.png",
@@ -172,7 +172,7 @@
   },
   {
     "id": 23,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "diesel.mp3",
     "name": "Kevin Nash (Diesel)",
     "wrestlerImg": "Kevin_Nash.png",
@@ -181,7 +181,7 @@
   },
   {
     "id": 24,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "dolphziggler.mp3",
     "name": "Dolph Ziggler",
     "wrestlerImg": "Dolph_Ziggler.png",
@@ -190,7 +190,7 @@
   },
   {
     "id": 25,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "dudleyboyz.mp3",
     "name": "The Dudley Boyz",
     "wrestlerImg": "Dudleyboyz.png",
@@ -199,7 +199,7 @@
   },
   {
     "id": 26,
-    "duration": 34800,
+    "duration": 58000,
     "musicUrl": "dx.mp3",
     "name": "DX",
     "wrestlerImg": "DX.png",
@@ -208,7 +208,7 @@
   },
   {
     "id": 27,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "eddieguerrero.mp3",
     "name": "Eddie Guerrero",
     "wrestlerImg": "Eddie_Guerrero.png",
@@ -217,7 +217,7 @@
   },
   {
     "id": 28,
-    "duration": 27600,
+    "duration": 46000,
     "musicUrl": "edge.mp3",
     "name": "Edge",
     "wrestlerImg": "Edge.png",
@@ -226,7 +226,7 @@
   },
   {
     "id": 29,
-    "duration": 23400,
+    "duration": 39000,
     "musicUrl": "evolution.mp3",
     "name": "Evolution",
     "wrestlerImg": "Evolution.png",
@@ -235,7 +235,7 @@
   },
   {
     "id": 30,
-    "duration": 25800,
+    "duration": 43000,
     "musicUrl": "fourhorsemen.mp3",
     "name": "Four Horsemen",
     "wrestlerImg": "Fourhorsemen.png",
@@ -244,7 +244,7 @@
   },
   {
     "id": 31,
-    "duration": 19200,
+    "duration": 32000,
     "musicUrl": "goldberg.mp3",
     "name": "Bill Goldberg",
     "wrestlerImg": "Goldberg.png",
@@ -253,7 +253,7 @@
   },
   {
     "id": 32,
-    "duration": 66600,
+    "duration": 39000,
     "musicUrl": "hardyboyz.mp3",
     "name": "The Hardy Boyz",
     "wrestlerImg": "Hardyboyz.png",
@@ -262,7 +262,7 @@
   },
   {
     "id": 33,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "hulkhogan.mp3",
     "name": "Hulk Hogan",
     "wrestlerImg": "Hulk_Hogan.png",
@@ -271,7 +271,7 @@
   },
   {
     "id": 34,
-    "duration": 19200,
+    "duration": 32000,
     "musicUrl": "hurricane.mp3",
     "name": "The Hurricane",
     "wrestlerImg": "Hurricane.png",
@@ -280,7 +280,7 @@
   },
   {
     "id": 35,
-    "duration": 15600,
+    "duration": 26000,
     "musicUrl": "ironsheik.mp3",
     "name": "Iron Sheik",
     "wrestlerImg": "Iron Sheik.png",
@@ -289,7 +289,7 @@
   },
   {
     "id": 36,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "jackswagger.mp3",
     "name": "Jack Swagger",
     "wrestlerImg": "Jackswagger.png",
@@ -298,7 +298,7 @@
   },
   {
     "id": 38,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "jeffhardy.mp3",
     "name": "Jeff Hardy",
     "wrestlerImg": "Jeff_Hardy.png",
@@ -307,7 +307,7 @@
   },
   {
     "id": 39,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "johncena.mp3",
     "name": "John Cena",
     "wrestlerImg": "john cena.png",
@@ -316,7 +316,7 @@
   },
   {
     "id": 40,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "johnmorrison.mp3",
     "name": "John Morrison - Johnny Nitro",
     "wrestlerImg": "John_Morrison.png",
@@ -325,7 +325,7 @@
   },
   {
     "id": 41,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "kane.mp3",
     "name": "Kane",
     "wrestlerImg": "Kane.PNG",
@@ -334,7 +334,7 @@
   },
   {
     "id": 42,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "kofikingston.mp3",
     "name": "Kofi Kingston",
     "wrestlerImg": "Kofi_Kingston.png",
@@ -343,7 +343,7 @@
   },
   {
     "id": 43,
-    "duration": 15600,
+    "duration": 26000,
     "musicUrl": "kurtangle.mp3",
     "name": "Kurt Angle",
     "wrestlerImg": "Kurt Angle.png",
@@ -352,7 +352,7 @@
   },
   {
     "id": 45,
-    "duration": 23400,
+    "duration": 39000,
     "musicUrl": "markhenry.mp3",
     "name": "Mark Henry",
     "wrestlerImg": "Mark Henry.png",
@@ -361,7 +361,7 @@
   },
   {
     "id": 46,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "matthardy.mp3",
     "name": "Matt Hardy",
     "wrestlerImg": "Matt Hardy.png",
@@ -370,7 +370,7 @@
   },
   {
     "id": 47,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "mickfoley.mp3",
     "name": "Mick Foley",
     "wrestlerImg": "Mick _Foley.png",
@@ -379,7 +379,7 @@
   },
   {
     "id": 48,
-    "duration": 30000,
+    "duration": 50000,
     "musicUrl": "mrperfect.mp3",
     "name": "Mr. Perfect",
     "wrestlerImg": "Mrperfect.png",
@@ -388,7 +388,7 @@
   },
   {
     "id": 49,
-    "duration": 15600,
+    "duration": 26000,
     "musicUrl": "nationofdomination.mp3",
     "name": "Nation of Domination",
     "wrestlerImg": "Nation.png",
@@ -397,7 +397,7 @@
   },
   {
     "id": 50,
-    "duration": 20400,
+    "duration": 34000,
     "musicUrl": "newday.mp3",
     "name": "The New Day",
     "wrestlerImg": "newday.png",
@@ -406,7 +406,7 @@
   },
   {
     "id": 51,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "nexus.mp3",
     "name": "Nexus",
     "wrestlerImg": "nexus.png",
@@ -415,7 +415,7 @@
   },
   {
     "id": 52,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "nwo.mp3",
     "name": "NWO",
     "wrestlerImg": "nwo.png",
@@ -424,7 +424,7 @@
   },
   {
     "id": 53,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "owenhart.mp3",
     "name": "Owen Hart",
     "wrestlerImg": "Owen Hart.png",
@@ -433,7 +433,7 @@
   },
   {
     "id": 54,
-    "duration": 16800,
+    "duration": 28000,
     "musicUrl": "papashango.mp3",
     "name": "Papa Shango / The Godfather",
     "wrestlerImg": "papashango.png",
@@ -442,7 +442,7 @@
   },
   {
     "id": 55,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "randyorton.mp3",
     "name": "Randy Orton",
     "wrestlerImg": "Randy Orton.png",
@@ -451,7 +451,7 @@
   },
   {
     "id": 56,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "randysavage.mp3",
     "name": "Randy Savage (Macho Man)",
     "wrestlerImg": "Randy Savage.png",
@@ -460,7 +460,7 @@
   },
   {
     "id": 58,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "reymysterio.mp3",
     "name": "Rey Mysterio",
     "wrestlerImg": "rey mysterio.png",
@@ -469,7 +469,7 @@
   },
   {
     "id": 59,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "ricflair.mp3",
     "name": "Ric Flair",
     "wrestlerImg": "Ric_Flair.png",
@@ -478,7 +478,7 @@
   },
   {
     "id": 60,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "rikishi.mp3",
     "name": "Rikishi",
     "wrestlerImg": "Rikishi.png",
@@ -487,7 +487,7 @@
   },
   {
     "id": 61,
-    "duration": 27000,
+    "duration": 45000,
     "musicUrl": "roaddogg.mp3",
     "name": "Road Dogg",
     "wrestlerImg": "roaddogg.png",
@@ -496,7 +496,7 @@
   },
   {
     "id": 62,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "robvandam.mp3",
     "name": "Rob Van Dam",
     "wrestlerImg": "Rob_Van_Dam.png.png",
@@ -505,7 +505,7 @@
   },
   {
     "id": 63,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "roddypiper.mp3",
     "name": "Rowdy Roddy Piper",
     "wrestlerImg": "Roddy Piper.png",
@@ -514,7 +514,7 @@
   },
   {
     "id": 64,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "romanreigns.mp3",
     "name": "Roman Reigns",
     "wrestlerImg": "Roman_Reigns.png",
@@ -523,7 +523,7 @@
   },
   {
     "id": 65,
-    "duration": 19800,
+    "duration": 33000,
     "musicUrl": "santinomarella.mp3",
     "name": "Santino Marella",
     "wrestlerImg": "Santino Marella.png",
@@ -532,7 +532,7 @@
   },
   {
     "id": 66,
-    "duration": 24000,
+    "duration": 40000,
     "musicUrl": "scotthall.mp3",
     "name": "Scott Hall",
     "wrestlerImg": "Scott_Hall.png",
@@ -541,7 +541,7 @@
   },
   {
     "id": 67,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "scottsteiner.mp3",
     "name": "Scott Steiner",
     "wrestlerImg": "Scott_Steiner.png",
@@ -550,7 +550,7 @@
   },
   {
     "id": 68,
-    "duration": 23400,
+    "duration": 39000,
     "musicUrl": "scotty2hotty.mp3",
     "name": "Scotty 2 Hotty",
     "wrestlerImg": "scotty2hotty.png",
@@ -559,7 +559,7 @@
   },
   {
     "id": 69,
-    "duration": 27000,
+    "duration": 45000,
     "musicUrl": "sgtslaughter.mp3",
     "name": "Sgt. Slaughter",
     "wrestlerImg": "sgtslaughter.png",
@@ -568,7 +568,7 @@
   },
   {
     "id": 70,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "shanemcmahon.mp3",
     "name": "Shane McMahon",
     "wrestlerImg": "shanemcmahon.png",
@@ -577,7 +577,7 @@
   },
   {
     "id": 71,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "shawnmichaels.mp3",
     "name": "Shawn Michaels - HBK",
     "wrestlerImg": "Shawn _Michaels.png",
@@ -586,7 +586,7 @@
   },
   {
     "id": 72,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "sheamus.mp3",
     "name": "Sheamus",
     "wrestlerImg": "Sheamus.png",
@@ -595,7 +595,7 @@
   },
   {
     "id": 73,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "sheltonbenjamin.mp3",
     "name": "Shelton Benjamin",
     "wrestlerImg": "Shelton_Benjamin-min.png",
@@ -604,7 +604,7 @@
   },
   {
     "id": 74,
-    "duration": 20400,
+    "duration": 34000,
     "musicUrl": "shinsuke.mp3",
     "name": "Shinsuke Nakamura",
     "wrestlerImg": "Shinsuke Nakamura.png",
@@ -613,7 +613,7 @@
   },
   {
     "id": 76,
-    "duration": 30000,
+    "duration": 50000,
     "musicUrl": "sting.mp3",
     "name": "sting",
     "wrestlerImg": "Sting.png",
@@ -622,7 +622,7 @@
   },
   {
     "id": 77,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "stonecold.mp3",
     "name": "Stone Cold Steve Austin",
     "wrestlerImg": "Stone_Cold_Steve_Austin.png",
@@ -631,7 +631,7 @@
   },
   {
     "id": 78,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "tajiri.mp3",
     "name": "Tajiri",
     "wrestlerImg": "tajiri.png",
@@ -640,7 +640,7 @@
   },
   {
     "id": 79,
-    "duration": 20400,
+    "duration": 34000,
     "musicUrl": "test.mp3",
     "name": "Test",
     "wrestlerImg": "test.png",
@@ -649,7 +649,7 @@
   },
   {
     "id": 80,
-    "duration": 72000,
+    "duration": 80000,
     "musicUrl": "therock.mp3",
     "name": "The Rock",
     "wrestlerImg": "The Rock.png",
@@ -658,7 +658,7 @@
   },
   {
     "id": 82,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "tripleh.mp3",
     "name": "Triple H",
     "wrestlerImg": "Triple_H.png",
@@ -667,7 +667,7 @@
   },
   {
     "id": 85,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "ultimatewarrior.mp3",
     "name": "The Ultimate Warrior",
     "wrestlerImg": "The Ultimate Warrior.png",
@@ -676,7 +676,7 @@
   },
   {
     "id": 86,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "umaga.mp3",
     "name": "Umaga",
     "wrestlerImg": "umaga.png",
@@ -685,7 +685,7 @@
   },
   {
     "id": 87,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "undertaker.mp3",
     "name": "The Undertaker",
     "wrestlerImg": "Undertaker.png",
@@ -694,7 +694,7 @@
   },
   {
     "id": 88,
-    "duration": 21000,
+    "duration": 35000,
     "musicUrl": "usos.mp3",
     "name": "The USOS",
     "wrestlerImg": "usos.png",
@@ -703,7 +703,7 @@
   },
   {
     "id": 89,
-    "duration": 21600,
+    "duration": 36000,
     "musicUrl": "vladimirkozlov.mp3",
     "name": "Vladimir Kozlov",
     "wrestlerImg": "valdimirkozlov.png",
@@ -712,7 +712,7 @@
   },
   {
     "id": 90,
-    "duration": 18000,
+    "duration": 30000,
     "musicUrl": "williamregal.mp3",
     "name": "William (Steven) Regal",
     "wrestlerImg": "William_Regal.png",
